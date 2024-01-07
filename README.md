@@ -1,6 +1,6 @@
 # IT-Career-Guidance
 
-- What is important to build good career?
+- **What is important to build good career?**
     - Education
     - Communication Skill
     - Presentation Skill
@@ -19,7 +19,7 @@
     - Get professional skills during College time.
 
 - **Skills** (Before Job/Business)
-    - Mandatory
+    - **Mandatory**
         - Communication
         - Presentation
         - Public Speaking
@@ -36,7 +36,7 @@
     - Any one sports
     - Any one favourite hobby 
 
-- Things to avoid in life
+- **Things to avoid in life**
     - Last moment career decision
     - Last moment study for any exams
     - Excese use of social media
@@ -48,20 +48,21 @@
     - Do not follow other life style
     - Don't regret on low educational marks
 
-- What is the best time for study?
-    - Early morning like 4-6 am    
+- **What is the best time for study?**
+    - Early morning like 4-6 am
+    - As per scheduled plan    
 
-- How To Plan For Study Time-Table?
+- **How To Plan For Study Time-Table?**
     - Create one chart with timing and task
     - Plan according to subject priorities and study
     - Pen and paper is best friend to plan study timing
 
-- IT Career
+- ## IT Career
     - Do I need costly certifications to get a jobs?
     - Do I need to join any offline Institutions who takes too much costs?
     - My friends earning very well in that fields, should I join that career?
 
-- Opportunities in IT
+- ## Opportunities in IT
     - Developers (Backend/Frontend)
     - DevOps
     - Testing/QA
@@ -70,7 +71,7 @@
     - Network/Cyber Security
     - DBA
 
-- Challenges in IT
+- ## Challenges in IT
     - Too much competions
     - Lack of skills candidate coming from Colleges due to wrong education system
     - People are coming from Non-IT Background
@@ -78,7 +79,7 @@
     - Global bad situations
     - Political Issues
 
-- Overall Conclusion
+- **Overall Conclusion**
     - There are always opportunities available in the market
     - Need to proove ourself with right knowledge
     - Be consistant to earn right skills
