@@ -85,5 +85,6 @@
     - Be consistant to earn right skills
     - Don't depend on marks. Life is beyond on that.   
     - Make a good friend circle
-    - Trust yourself                      
+    - Trust yourself  
+    - Use latest technology like AI technology to make life better                    
     
