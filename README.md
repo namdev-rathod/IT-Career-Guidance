@@ -24,6 +24,13 @@
         - Presentation
         - Public Speaking
         - Confidence
+            -   How To Learn English Communication?
+                - Read
+                - Speak
+                - Listen
+                - Think
+                - Practice
+                - Create a mock video while speaking
 
 - **Hobbies**
     - Any one sports
@@ -75,5 +82,7 @@
     - There are always opportunities available in the market
     - Need to proove ourself with right knowledge
     - Be consistant to earn right skills
-    - Don't depend on marks. Life is beyond on that.                         
+    - Don't depend on marks. Life is beyond on that.   
+    - Make a good friend circle
+    - Trust yourself                      
     
